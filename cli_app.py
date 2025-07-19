@@ -11,11 +11,11 @@ CACHE_DIR = os.path.dirname(__file__)
 
 # Настройки по умолчанию
 settings = {
-    "model": "turbo",
+    "model": "turbo3.1",
     "use_dictionary": True
 }
 
-MODELS = ['turbo', 'big_poetry', 'medium_poetry', 'small_poetry']
+MODELS = ['tiny', 'tiny2', 'tiny2.1', 'turbo2', 'turbo3', 'turbo3.1', 'turbo', 'big_poetry']
 
 # Простой стиль для обхода ошибок рендеринга
 custom_style = Style([])

@@ -2,6 +2,6 @@
 setlocal
 
 echo Starting the application...
-.venv\Scripts\python.exe app.py
+python\python.exe cli_app.py
 
 pause

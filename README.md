@@ -2,7 +2,7 @@
 
 Это портативная консольная версия приложения для расстановки ударений в русском тексте.
 
-Используется https://github.com/Den4ikAI/ruaccent
+Используется https://huggingface.co/ruaccent/accentuator
 
 ## Инструкция по запуску
 

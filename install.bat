@@ -60,6 +60,8 @@ echo Cleanup complete.
 
 echo.
 echo =================================================================
-echo Installation complete! You can now run the application using run.bat
+echo Installation complete! App launch.
+echo You can now run the application using run.bat
 echo =================================================================
 pause
+python\python.exe cli_app.py
